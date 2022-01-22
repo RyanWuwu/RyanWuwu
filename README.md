@@ -41,26 +41,8 @@ Joined Github **3** years ago.
 -->
 
 ### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanWuwu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWuwu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanWuwu&hide_border=true" />
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+⚡ Github Stats
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanWuwu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWuwu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
