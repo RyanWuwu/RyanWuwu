@@ -17,7 +17,7 @@ Joined Github **3** years ago.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with python, C++, Latex, etc.
-- 🚀 &nbsp; I’m currently learning Influence Maximization.
+- 🚀 &nbsp; I’m currently learning Influence Maximization and community detection.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RyanWuwu).
 - 👾 &nbsp; Fun fact: There are twenty-four hours in a day
 - 📫 &nbsp; How to reach me: xunlianwu2021@gmail.com.
